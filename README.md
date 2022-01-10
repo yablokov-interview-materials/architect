@@ -1,6 +1,16 @@
 # Solution architect
 
 <!--ts-->
+* [Solution architect](#solution-architect)
+   * [Вопросы для собеседования на позицию solution architect](#вопросы-для-собеседования-на-позицию-solution-architect)
+      * [1. Containers vs. Virtual Machines (VM)](#1-containers-vs-virtual-machines-vm)
+      * [2. Principles of container ready application architecture](#2-principles-of-container-ready-application-architecture)
+   * [Задачи для собеседования на позицию solution architect](#задачи-для-собеседования-на-позицию-solution-architect)
+      * [1. Monolith to MicroServices](#1-monolith-to-microservices)
+      * [2. Design a communication channel between systems](#2-design-a-communication-channel-between-systems)
+
+<!-- Added by: runner, at: Mon Jan 10 11:04:15 UTC 2022 -->
+
 <!--te-->
 
 ## Вопросы для собеседования на позицию solution architect
