@@ -1,8 +1,11 @@
 # Solution architect
 
+<!--ts-->
+<!--te-->
+
 ## Вопросы для собеседования на позицию solution architect
 
-#### 1. Containers vs. Virtual Machines (VM)
+### 1. Containers vs. Virtual Machines (VM)
 
 Чем виртуальные машины отличаются от контейнеров.
 
@@ -33,7 +36,7 @@
 
 ---
 
-#### 2. Principles of container ready application architecture  
+### 2. Principles of container ready application architecture  
 
 Каким ключевым требованиям должно удовлетворять приложение для того, чтобы быть container/cloud ready.
 
@@ -176,7 +179,7 @@
 
 ## Задачи для собеседования на позицию solution architect
 
-#### 1. Monolith to MicroServices
+### 1. Monolith to MicroServices
 
 Спроектировать переход от монолитного сервиса к микросервисам.
 
@@ -345,7 +348,7 @@ _Примечание:_
 
 ---
 
-#### 2. Design a communication channel between systems
+### 2. Design a communication channel between systems
 
 Требуется спроектировать канал общения с использованием брокера сообщений.
 
