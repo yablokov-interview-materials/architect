@@ -1,4 +1,4 @@
-# Solution architect
+# Solution / software architect
 
 <!--ts-->
 * [Solution architect](#solution-architect)
